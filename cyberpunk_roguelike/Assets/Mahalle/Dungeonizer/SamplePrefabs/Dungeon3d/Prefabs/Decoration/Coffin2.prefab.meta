@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eef15964ef570de45a861f9638e0b57b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22162
+  packageName: Dungeonizer - Easy Random Dungeon Generator
+  packageVersion: 2.7 (CORRIDORS)
+  assetPath: Assets/Mahalle/Dungeonizer/SamplePrefabs/Dungeon3d/Prefabs/Decoration/Coffin2.prefab
+  uploadId: 901338

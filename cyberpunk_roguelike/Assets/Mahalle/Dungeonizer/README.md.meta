@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 58c4b7ef60df78949b3b3facd6cb2f0a
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22162
+  packageName: Dungeonizer - Easy Random Dungeon Generator
+  packageVersion: 2.7 (CORRIDORS)
+  assetPath: Assets/Mahalle/Dungeonizer/README.md
+  uploadId: 901338

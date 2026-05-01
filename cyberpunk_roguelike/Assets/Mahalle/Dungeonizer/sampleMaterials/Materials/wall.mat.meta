@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7336f6ffa4457fe49ac6436e47bf1223
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22162
+  packageName: Dungeonizer - Easy Random Dungeon Generator
+  packageVersion: 2.7 (CORRIDORS)
+  assetPath: Assets/Mahalle/Dungeonizer/sampleMaterials/Materials/wall.mat
+  uploadId: 901338

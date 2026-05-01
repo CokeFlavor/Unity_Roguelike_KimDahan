@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cb48aafd09c56f4428c89609d6a41411
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22162
+  packageName: Dungeonizer - Easy Random Dungeon Generator
+  packageVersion: 2.7 (CORRIDORS)
+  assetPath: Assets/Mahalle/Dungeonizer/SamplePrefabs/Dungeon3d/Prefabs/Decoration/FireplaceAndWoods.prefab
+  uploadId: 901338

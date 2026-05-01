@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2372ec683addf4747a6c393cdffce625
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22162
+  packageName: Dungeonizer - Easy Random Dungeon Generator
+  packageVersion: 2.7 (CORRIDORS)
+  assetPath: Assets/Mahalle/Dungeonizer/SamplePrefabs/Dungeon3d/Prefabs/Structure/Door-Cracked.prefab
+  uploadId: 901338

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e1cafc7e20084424cb665f67aeaf529d
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22162
+  packageName: Dungeonizer - Easy Random Dungeon Generator
+  packageVersion: 2.7 (CORRIDORS)
+  assetPath: Assets/Mahalle/Dungeonizer/SamplePrefabs/StartEnd.prefab
+  uploadId: 901338

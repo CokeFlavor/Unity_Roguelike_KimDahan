@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b31a226e8d887a3488d8cfedef941318
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22162
+  packageName: Dungeonizer - Easy Random Dungeon Generator
+  packageVersion: 2.7 (CORRIDORS)
+  assetPath: Assets/Mahalle/Dungeonizer/SamplePrefabs/chest.prefab
+  uploadId: 901338

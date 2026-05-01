@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: de9a17229143c7f47a34c9bf15c6052c
+timeCreated: 1459160044
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22162
+  packageName: Dungeonizer - Easy Random Dungeon Generator
+  packageVersion: 2.7 (CORRIDORS)
+  assetPath: Assets/Mahalle/Dungeonizer/Dungeonizer.cs
+  uploadId: 901338

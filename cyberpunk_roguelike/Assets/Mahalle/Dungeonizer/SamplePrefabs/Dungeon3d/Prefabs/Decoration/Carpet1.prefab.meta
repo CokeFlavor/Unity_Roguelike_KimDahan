@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4e6db3e467b2b6e4c9479bddc9ef8f07
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22162
+  packageName: Dungeonizer - Easy Random Dungeon Generator
+  packageVersion: 2.7 (CORRIDORS)
+  assetPath: Assets/Mahalle/Dungeonizer/SamplePrefabs/Dungeon3d/Prefabs/Decoration/Carpet1.prefab
+  uploadId: 901338

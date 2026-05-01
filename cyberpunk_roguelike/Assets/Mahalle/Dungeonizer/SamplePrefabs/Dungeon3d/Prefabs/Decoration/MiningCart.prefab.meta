@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bdca50ad599b442488aa067734c6ac8b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22162
+  packageName: Dungeonizer - Easy Random Dungeon Generator
+  packageVersion: 2.7 (CORRIDORS)
+  assetPath: Assets/Mahalle/Dungeonizer/SamplePrefabs/Dungeon3d/Prefabs/Decoration/MiningCart.prefab
+  uploadId: 901338

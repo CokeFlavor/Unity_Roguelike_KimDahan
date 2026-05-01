@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8bea919c61ea7c741836ef50e8c15402
+timeCreated: 1459161058
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22162
+  packageName: Dungeonizer - Easy Random Dungeon Generator
+  packageVersion: 2.7 (CORRIDORS)
+  assetPath: Assets/Mahalle/Dungeonizer/SamplePrefabs/igorTheme/dungeonizer_door.prefab
+  uploadId: 901338

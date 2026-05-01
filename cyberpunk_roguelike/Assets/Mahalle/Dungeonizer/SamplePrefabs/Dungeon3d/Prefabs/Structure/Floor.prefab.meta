@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 64b4fd04975dd8d4f9ae50a2e845e0ce
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22162
+  packageName: Dungeonizer - Easy Random Dungeon Generator
+  packageVersion: 2.7 (CORRIDORS)
+  assetPath: Assets/Mahalle/Dungeonizer/SamplePrefabs/Dungeon3d/Prefabs/Structure/Floor.prefab
+  uploadId: 901338
